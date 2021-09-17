@@ -1,0 +1,15 @@
+ar\org\java\jsf\test\TestConnector.class
+ar\org\java\jsf\model\Venta.class
+ar\org\java\jsf\bean\PersonaBean.class
+ar\org\java\jsf\converter\SexoConverter.class
+ar\org\java\jsf\test\ProductoTest.class
+ar\org\java\jsf\model\DetalleVenta.class
+ar\org\java\jsf\model\Producto.class
+ar\org\java\jsf\bean\VentaBean.class
+ar\org\java\jsf\model\Persona.class
+ar\org\java\jsf\dao\jdbc\PersonaDao.class
+ar\org\java\jsf\test\PersonaTest.class
+ar\org\java\jsf\bean\ProductoBean.class
+ar\org\java\jsf\dao\jdbc\VentaDao.class
+ar\org\java\jsf\dao\Connectors\Connector.class
+ar\org\java\jsf\dao\jdbc\ProductoDao.class
